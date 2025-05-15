@@ -1,47 +1,67 @@
-👋 Hello, I'm Kevin Kago
-Full-Stack Developer | React | Java | Python | Flask
-I'm a passionate full-stack developer with expertise in building responsive web applications using modern technologies. My technical journey spans both frontend and backend development, with a focus on creating secure, scalable, and user-friendly solutions.
-👨‍💻 Technical Skills
-Frontend
+# 👋 Hi, I'm Kevin Kago — Full-Stack Developer
 
-React.js ecosystem (hooks, state management, component architecture)
-JavaScript (ES6+), HTML5, CSS3
-Responsive design with Bootstrap
+**Tech Stack:** React | Java | Python | Flask
 
-Backend
+I'm a passionate full-stack developer with expertise in building responsive and user-friendly web applications. My technical journey spans both frontend and backend development, with a strong focus on creating secure, scalable, and maintainable software solutions.
 
-Java Spring Boot microservices
-Python Flask API development
-JWT authentication implementation
-Database design (MySQL, PostgreSQL)
+---
 
-🌱 I'm currently learning
+## 👨‍💻 Technical Skills
 
-Advanced microservice architecture patterns
-GraphQL API development
-Cloud deployment strategies
-Test-driven development practices
+### Frontend
+- React.js (Hooks, State Management, Component Architecture)
+- JavaScript (ES6+), HTML5, CSS3
+- Responsive Design with Bootstrap
 
-💼 Experience
+### Backend
+- Java (Spring Boot Microservices)
+- Python (Flask for API Development)
+- JWT Authentication
+- MySQL & PostgreSQL (Database Design & Management)
 
-Graduate Trainee Developer at Smart Applications Group
-Former Software Developer Intern at Elewa Group
+---
 
-💞️ I'm looking to collaborate on
+## 🌱 Currently Learning
+- Advanced Microservice Architecture Patterns  
+- GraphQL API Development  
+- Cloud Deployment Strategies (Docker, CI/CD)  
+- Test-Driven Development (TDD)  
 
-Open-source React or Flask projects
-Web applications focused on social impact
-Developer tools and utilities
-Innovative solutions to real-world problems
+---
 
-📚 Projects
+## 💼 Experience
 
-Mahali Mzuri: Hotel management system with React frontend and Flask/Java backend
-Learning Management System: Open-source chatbot editor with conversational learning capabilities
+- **Graduate Trainee Developer** — *Smart Applications Group*  
+- **Software Developer Intern** — *Elewa Group*  
 
-📫 How to reach me
+---
 
-Email: kagokevin33@gmail.com
-Phone: (+254)798-858-844
-LinkedIn: Profile
+## 💞️ I’m Looking to Collaborate On
+
+- Open-source React or Flask projects  
+- Web applications focused on social impact  
+- Developer tools and utilities  
+- Innovative solutions to real-world problems  
+
+---
+
+## 📚 Featured Projects
+
+### 🏨 Mahali Mzuri
+A hotel management system with a React frontend and Flask/Java backend.
+
+### 📘 Learning Management System
+An open-source chatbot editor enabling conversational learning experiences.
+
+---
+
+## 📫 Contact Me
+
+- **Email:** kagokevin33@gmail.com  
+- **Phone:** (+254) 798-858-844  
+- **LinkedIn:** [Kevin Kago](#) <!-- Replace `#` with your actual LinkedIn profile URL -->
+
+---
+
+> “Building clean code and real-world solutions, one commit at a time.”
 
